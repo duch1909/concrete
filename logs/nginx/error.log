@@ -1,0 +1,8 @@
+2020/09/21 15:18:01 [emerg] 8#8: host not found in upstream "laravel-echo-server" in /etc/nginx/sites-available/api.conf:28
+2021/07/04 07:26:43 [emerg] 9#9: host not found in upstream "laravel-echo-server" in /etc/nginx/sites-available/api.conf:28
+2021/07/04 07:39:51 [emerg] 9#9: host not found in upstream "laravel-echo-server" in /etc/nginx/sites-available/api.conf:28
+2021/07/04 07:40:13 [emerg] 10#10: host not found in upstream "laravel-echo-server" in /etc/nginx/sites-available/api.conf:28
+2021/07/04 07:40:30 [emerg] 8#8: host not found in upstream "laravel-echo-server" in /etc/nginx/sites-available/api.conf:28
+2021/07/04 07:43:25 [emerg] 9#9: host not found in upstream "laravel-echo-server" in /etc/nginx/sites-available/api.conf:28
+2021/07/04 07:49:52 [emerg] 9#9: host not found in upstream "laravel-echo-server" in /etc/nginx/sites-available/api.conf:28
+2021/07/04 07:50:57 [emerg] 9#9: host not found in upstream "laravel-echo-server" in /etc/nginx/sites-available/api.conf:28
